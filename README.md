@@ -5,4 +5,4 @@
 ![GitHub license](https://img.shields.io/github/license/Soumyadipta2020/ML-PySpark)
 [![HitCount](https://hits.dwyl.com/Soumyadipta2020/ML-PySpark.svg?style=flat-square)](http://hits.dwyl.com/Soumyadipta2020/ML-PySpark)
 
-Machine Learning with PySpark
+Machine Learning & visualization with PySpark
